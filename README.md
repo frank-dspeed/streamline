@@ -13,4 +13,10 @@ Porduktion and Dev Error Logging.
 Should help you to Streamline your Projekts
 
 
-
+## Planned Offerings
+- VSCode Extension
+- Browser Extension
+- PWA
+  - Optional vscode Integration (Running it Remote)
+  - Optional theia 
+  - Optional component registry management for stealify/components system.
