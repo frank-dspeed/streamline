@@ -1,5 +1,5 @@
 # streamline
-DIREKTSPEED Streamline is a Component based framework and cms Agnostik Frontend First Design and Feedback System 
+DIREKTSPEED Streamline is a Component based framework and cms Agnostik Frontend First Design and Feedback System based on @stealify/components Concepts and principles 
 
 ## What is it?
 It is a Frontend First Component and Element Editor that lets you Modify and Collaborate on Webpages. 
