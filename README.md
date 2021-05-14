@@ -8,7 +8,7 @@ It offers a Collection of tools for tasks like Frontend First Bundling, Live Rel
 Easy Import and Export of Components. 
 Easy Visual Feedback and versioning.
 
-Porduktion and Dev Error Logging.
+Porduction and Dev Error Logging.
 
 Should help you to Streamline your Projekts
 
@@ -20,3 +20,5 @@ Should help you to Streamline your Projekts
   - Optional vscode Integration (Running it Remote)
   - Optional theia 
   - Optional component registry management for stealify/components system.
+  - Optional codemirror
+- Stealify Component Registrie 
